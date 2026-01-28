@@ -1,0 +1,29 @@
+{
+  "url": "https://api.github.com/repos/mcino-Introduction-to-Git-and-GitHub/pulls/3",
+  "id": 123456789,
+  "number": 3,
+  "state": "open",
+  "title": "Fix typo in README",
+  "user": {
+    "login": "kavitazore",
+    "id": 987654321,
+    "html_url": "https://github.com/kavitazore"
+  },
+  "body": "Corrected a typo in the README file",
+  "head": {
+    "label": "kavitazore:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "full_name": "kavitazore/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/kavitazore/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "base": {
+    "label": "main",
+    "ref": "main",
+    "repo": {
+      "full_name": "mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
