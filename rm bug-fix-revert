@@ -1,0 +1,10 @@
+"head": {
+  "repo": {
+    "full_name": "<your-username>/micro-Introduction-to-Git-and-GitHub"
+  }
+},
+"base": {
+  "repo": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
