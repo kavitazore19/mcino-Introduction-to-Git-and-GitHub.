@@ -1,0 +1,7 @@
+{
+  echo "git checkout main"
+  git checkout main
+  echo ""
+  echo "git merge bug-fix-typo"
+  git merge bug-fix-typo
+} > merge_branches
